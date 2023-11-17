@@ -2,6 +2,8 @@
 
 // akdsksadkdsakasd
 
-$true = true;
-if($true)
-echo "oba";
+function obaoba(){
+    return "obaaa";
+}
+
+echo obaoba();
