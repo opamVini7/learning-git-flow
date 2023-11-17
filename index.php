@@ -1,4 +1,7 @@
 <?php 
 
+// akdsksadkdsakasd
 
-echo 'teste';
+$true = true;
+if($true)
+echo "oba";
