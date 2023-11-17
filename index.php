@@ -1,4 +1,9 @@
 <?php 
 
+// akdsksadkdsakasd
 
-echo 'teste';
+function obaoba(){
+    return "obaaa";
+}
+
+echo obaoba();
